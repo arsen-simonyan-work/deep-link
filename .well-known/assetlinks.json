@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "tv.lsoft.lovit_launcher",
+    "sha256_cert_fingerprints":
+    ["E0:DF:67:DE:EA:C1:9B:DB:BB:68:CA:12:0E:70:CD:BA:F6:C6:8F:B7:3C:01:EE:1D:F6:06:28:E2:21:4C:B6:B0"]
+  }
+}]
