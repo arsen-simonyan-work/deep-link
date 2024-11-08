@@ -1,9 +1,15 @@
-[{
-  "relation": ["delegate_permission/common.handle_all_urls"],
-  "target": {
-    "namespace": "android_app",
-    "package_name": "tv.lsoft.lovit_launcher",
-    "sha256_cert_fingerprints":
-    ["E0:DF:67:DE:EA:C1:9B:DB:BB:68:CA:12:0E:70:CD:BA:F6:C6:8F:B7:3C:01:EE:1D:F6:06:28:E2:21:4C:B6:B0"]
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "io.pokerplatform.poks.poker",
+      "sha256_cert_fingerprints": [
+        "EE:E4:CF:BB:1C:69:32:A3:9A:FB:81:A8:D0:F8:30:A5:5B:33:68:9C:14:C4:46:6F:27:8C:CB:B2:5B:98:D5:FC",
+        "3F:96:AF:56:15:CE:76:75:02:A6:CD:9D:57:5D:FF:DD:64:10:34:8D:21:BD:8B:C1:60:DC:2E:75:57:BC:28:66"
+      ]
+    }
   }
-}]
+]
